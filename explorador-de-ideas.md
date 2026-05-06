@@ -13,6 +13,10 @@ Antes de crear el Gem, conviene adaptar las instrucciones a los intereses reales
 - las secciones temáticas finales, como `ESTRELLAS Y PLANETAS`, `MINECRAFT`, `ORDENADORES` y `VIAJES EN COCHE`;
 - las preguntas útiles de cada tema.
 
+## Usar el Gem ya creado
+
+[Abrir Explorador de ideas en Gemini](https://gemini.google.com/gem/1iuCOWriMREWT4fpC9t7GIn3FJr6AhL4S?usp=sharing)
+
 ## ¿Cómo crear el Gem?
 
 Puedes crear este Gem en Gemini copiando los campos siguientes:
