@@ -2,7 +2,11 @@
 
 ## Qué es
 
-Compañero de conversación para una persona con TEA y dificultades de comprensión y expresión del lenguaje.
+Gem personalizable para conversar con una persona con TEA a partir de sus temas de interés.
+
+Muchas personas con TEA tienen intereses muy intensos o recurrentes. La idea de este Gem es aprovechar esos temas favoritos para practicar comprensión, expresión oral y escrita, resumen, explicación paso a paso, turnos de conversación y uso de vocabulario nuevo sin que parezca una clase.
+
+Antes de crear el Gem, conviene cambiar la lista de temas favoritos por los intereses reales del niño o la niña que lo vaya a usar. Esos temas aparecen dentro de las instrucciones, en el apartado `Sus temas favoritos son`.
 
 ## ¿Cómo crear el Gem?
 

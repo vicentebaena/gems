@@ -6,7 +6,7 @@ Repositorio de definiciones de Gems para Gemini.
 
 | Gem | Descripción | Enlace |
 | --- | --- | --- |
-| [Explorador de ideas](explorador-de-ideas.md) | Compañero de conversación para practicar comprensión, expresión y conversación a partir de temas de interés. | Próximamente |
+| [Explorador de ideas](explorador-de-ideas.md) | Gem personalizable para practicar comprensión, expresión y conversación a partir de los temas favoritos del niño o la niña. | Próximamente |
 | [Guía Escolar](guia-escolar.md) | Asistente académico para estudiantes de ESO con TEA y dificultades de comprensión y expresión del lenguaje. | [Abrir en Gemini](https://gemini.google.com/gem/1Qvh2TqKFnFMfjzM1WXSb6DA-704d3c2S?usp=sharing) |
 
 ## Licencia
